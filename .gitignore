@@ -1,0 +1,13 @@
+zig-cache/
+
+# package dependencies
+deps.zig
+
+# zigmod
+.zigmod/
+zigmod.lock
+
+# Editors
+.idea
+.vscode
+.atom
